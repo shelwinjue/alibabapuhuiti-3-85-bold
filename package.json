@@ -1,0 +1,16 @@
+{
+  "name": "alibabapuhuiti-3-85-bold",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alibabapuhuiti"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
